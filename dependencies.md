@@ -1,5 +1,5 @@
 # Google Apps Script Project: slidemerge-preaddon
-This repo (slidemerge-preaddon) was automatically updated on 07 June 2017 16:59:06 BST by GasGit
+This repo (slidemerge-preaddon) was automatically updated on 20 November 2017 12:45:35 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project slidemerge-preaddon
