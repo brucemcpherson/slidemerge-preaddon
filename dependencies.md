@@ -1,5 +1,5 @@
 # Google Apps Script Project: slidemerge-preaddon
-This repo (slidemerge-preaddon) was automatically updated on 20 November 2017 12:45:35 GMT by GasGit
+This repo (slidemerge-preaddon) was automatically updated on 31 October 2018 11:43:50 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project slidemerge-preaddon
@@ -26,6 +26,7 @@ Webapp| server_js
 Home| server_js
 ThisIsTheModYouAreLookingFor| server_js
 Fiddler| server_js
+appsscript| json
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
@@ -33,6 +34,8 @@ no libraries discovered
 ### Enabled Google Services
 *library*|*identifier*|*version*
 --- | --- | --- 
-Slides| Slides|unknown
-###Need more detail ?
+Slides| Slides|v1
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
